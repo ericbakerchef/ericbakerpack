@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 34,
+	"supported_formats": {"min_inclusive": 34, "max_inclusive": 64},
+	"min_format": [34,1],
+	"max_format": [84,1],
+    "description": "§d§k.§r§8 by §dkeno §8& §dlooshy §d§k.§r"
+  }
+}
