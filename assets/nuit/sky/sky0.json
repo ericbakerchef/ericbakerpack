@@ -1,0 +1,26 @@
+{
+	"schemaVersion": 1,
+	"type": "nuit:square-textured",
+	"texture": "minecraft:optifine/sky/world0/nebula.png",
+	"blend": {"type": "add"},
+	"properties": {
+		"layer": 1,
+		"fade": {
+			"duration": 24000,
+			"keyFrames": {
+				"0": 0.0,
+				"12300": 0.0,
+				"14000": 1.0,
+				"22300": 1.0
+			}
+			},
+		"rotation": {
+			"speed": 1.0,
+			"axis": {"0": [90.0, 0.0, 0.0]},
+			"skyboxRotation": false
+		}
+	},
+	"conditions": {
+		"worlds": {"entries": ["minecraft:overworld"]}
+	}
+}

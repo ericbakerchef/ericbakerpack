@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "type": "nuit:decorations",
+  "showSun": true,
+  "showMoon": true,
+  "showStars": false,
+  "properties": {
+    "layer": 2,
+    "fade": {
+      "alwaysOn": true
+      },
+    "rotation": {
+		  "speed": 1.0,
+      "mapping": {"0": [0.0, -90.0, 0.0]},
+      "axis": {"0": [90.0, 0.0, 0.0]},
+      "skyboxRotation": false
+		}
+  },
+  "conditions": {
+		"worlds": {"entries": ["minecraft:overworld"]}
+	}
+}

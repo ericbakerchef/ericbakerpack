@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "type": "nuit:overworld",
+  "properties": {
+    "layer": 0,
+    "fade": {
+      "alwaysOn": true
+      }
+  },
+  "conditions": {
+		"worlds": {"entries": ["minecraft:overworld"]}
+	}
+}
