@@ -1,0 +1,6 @@
+{
+    "condition": "ladsskybox.brightness.dark",
+    "fallback": [
+        "assets/minecraft/optifine/sky/world0/nebula_bright.png"
+    ]
+}
