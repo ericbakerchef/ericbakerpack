@@ -1,0 +1,11 @@
+{
+    id: "ladsskybox",
+    version: 13,
+    capabilities: ["FileFilter"],
+    conf: {
+        brightness: [
+            "dark",
+            "bright"
+        ]
+    }
+}
