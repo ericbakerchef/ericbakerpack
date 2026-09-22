@@ -2,9 +2,12 @@
     "block.stone.break": {
         "replace": true,
         "sounds": [
-            "custom/stone",
-            "custom/stone2",
-            "custom/stone3"
+            {
+            "name": "custom/stone",
+            "name": "custom/stone2",
+            "name": "custom/stone3"
+            "pitch": 0.7
+            }    
         ]
     },
 
