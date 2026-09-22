@@ -1,0 +1,212 @@
+{
+    "block.stone.break": {
+        "replace": true,
+        "sounds": [
+            "custom/stone",
+            "custom/stone2",
+            "custom/stone3"
+        ]
+    },
+
+    "block.deepslate.break": {
+        "replace": true,
+        "sounds": [
+            "custom/stone",
+            "custom/stone2",
+            "custom/stone3"
+        ]
+    },
+
+    "block.deepslate_bricks.break": {
+        "replace": true,
+        "sounds": [
+            "custom/stone",
+            "custom/stone2",
+            "custom/stone3"
+        ]
+    },
+
+    "block.deepslate_tiles.break": {
+        "replace": true,
+        "sounds": [
+            "custom/stone",
+            "custom/stone2",
+            "custom/stone3"
+        ]
+    },
+
+    "block.polished_deepslate.break": {
+        "replace": true,
+        "sounds": [
+            "custom/stone",
+            "custom/stone2",
+            "custom/stone3"
+        ]
+    },
+
+    "block.gravel.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.sand.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.suspicious_sand.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.soul_sand.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.soul_soil.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.rooted_dirt.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.mud.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.muddy_mangrove_roots.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.mangrove_roots.break": {
+        "replace": true,
+        "sounds": [
+            "custom/dirt",
+            "custom/dirt2",
+            "custom/dirt3"
+        ]
+    },
+
+    "block.grass.break": {
+        "replace": true,
+        "sounds": [
+            "custom/grass"
+        ]
+    },
+
+    "block.crop.break": {
+        "replace": true,
+        "sounds": [
+            "custom/grass"
+        ]
+    },
+
+    "block.leaf_litter.break": {
+        "replace": true,
+        "sounds": [
+            "custom/grass"
+        ]
+    },
+
+    "block.vine.break": {
+        "replace": true,
+        "sounds": [
+            "custom/grass"
+        ]
+    },
+
+    "block.roots.break": {
+        "replace": true,
+        "sounds": [
+            "custom/grass"
+        ]
+    },
+
+    "block.weeping_vines.break": {
+        "replace": true,
+        "sounds": [
+            "custom/grass"
+        ]
+    },
+
+    "block.wet_grass.break": {
+        "replace": true,
+        "sounds": [
+            "custom/grass"
+        ]
+    },
+
+    "block.wood.break": {
+        "replace": true,
+        "sounds": [
+            "custom/wood",
+            "custom/wood2",
+            "custom/wood3"
+        ]
+    },
+
+    "block.nether_wood.break": {
+        "replace": true,
+        "sounds": [
+            "custom/wood",
+            "custom/wood2",
+            "custom/wood3"
+        ]
+    },
+
+    "block.bamboo_wood.break": {
+        "replace": true,
+        "sounds": [
+            "custom/wood",
+            "custom/wood2",
+            "custom/wood3"
+        ]
+    },
+
+    "block.cherry_wood.break": {
+        "replace": true,
+        "sounds": [
+            "custom/wood",
+            "custom/wood2",
+            "custom/wood3"
+        ]
+    }
+}
