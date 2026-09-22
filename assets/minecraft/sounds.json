@@ -2,45 +2,90 @@
     "block.stone.break": {
         "replace": true,
         "sounds": [
-            "custom/stone",
-            "custom/stone2",
-            "custom/stone3"
+            {
+            "name": "custom/stone",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone2",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone3",
+            "pitch": 1.0
+            }    
         ]
     },
 
     "block.deepslate.break": {
         "replace": true,
         "sounds": [
-            "custom/stone",
-            "custom/stone2",
-            "custom/stone3"
+            {
+            "name": "custom/stone",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone2",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone3",
+            "pitch": 1.0
+            }
         ]
     },
 
     "block.deepslate_bricks.break": {
         "replace": true,
         "sounds": [
-            "custom/stone",
-            "custom/stone2",
-            "custom/stone3"
+            {
+            "name": "custom/stone",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone2",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone3",
+            "pitch": 1.0
+            }
         ]
     },
 
     "block.deepslate_tiles.break": {
         "replace": true,
         "sounds": [
-            "custom/stone",
-            "custom/stone2",
-            "custom/stone3"
+            {
+            "name": "custom/stone",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone2",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone3",
+            "pitch": 1.0
+            }
         ]
     },
 
     "block.polished_deepslate.break": {
         "replace": true,
         "sounds": [
-            "custom/stone",
-            "custom/stone2",
-            "custom/stone3"
+            {
+            "name": "custom/stone",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone2",
+            "pitch": 1.0
+            },
+            {
+            "name": "custom/stone3",
+            "pitch": 1.0
+            }
         ]
     },
 
@@ -207,6 +252,20 @@
             "custom/wood",
             "custom/wood2",
             "custom/wood3"
+        ]
+    },
+
+    "entity.arrow.shoot": {
+    "replace": true,
+    "sounds": [
+        "custom/arrow_shoot"
+        ]
+    },
+
+    "entity.arrow.hit": {
+    "replace": true,
+    "sounds": [
+        "custom/dirt"
         ]
     }
 }
