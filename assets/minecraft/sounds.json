@@ -4,15 +4,15 @@
         "sounds": [
             {
             "name": "custom/stone",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone2",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone3",
-            "pitch": 0.7
+            "pitch": 1.0
             }    
         ]
     },
@@ -22,15 +22,15 @@
         "sounds": [
             {
             "name": "custom/stone",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone2",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone3",
-            "pitch": 0.7
+            "pitch": 1.0
             }
         ]
     },
@@ -40,15 +40,15 @@
         "sounds": [
             {
             "name": "custom/stone",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone2",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone3",
-            "pitch": 0.7
+            "pitch": 1.0
             }
         ]
     },
@@ -58,15 +58,15 @@
         "sounds": [
             {
             "name": "custom/stone",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone2",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone3",
-            "pitch": 0.7
+            "pitch": 1.0
             }
         ]
     },
@@ -76,15 +76,15 @@
         "sounds": [
             {
             "name": "custom/stone",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone2",
-            "pitch": 0.7
+            "pitch": 1.0
             },
             {
             "name": "custom/stone3",
-            "pitch": 0.7
+            "pitch": 1.0
             }
         ]
     },
@@ -252,6 +252,20 @@
             "custom/wood",
             "custom/wood2",
             "custom/wood3"
+        ]
+    },
+
+    "entity.arrow.shoot": {
+    "replace": true,
+    "sounds": [
+        "custom/arrow_shoot"
+        ]
+    },
+
+    "entity.arrow.hit": {
+    "replace": true,
+    "sounds": [
+        "custom/dirt"
         ]
     }
 }
